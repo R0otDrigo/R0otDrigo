@@ -1,42 +1,51 @@
-<h2 align="center" style="color:#00FFCC;">I'm R0otDrigo</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A5F&height=150&section=header&text=Rodrigo%20Estefanero&fontSize=40&fontColor=E2E8F0&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20Systems%20Engineering%20%40%20UNSA&descSize=16&descAlignY=68&descAlignX=50" width="100%" alt="Rodrigo Estefanero, Software Developer, Systems Engineering at UNSA" />
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Web%20Developer;Systems%20Engineering%20Student;Focused%20on%20Security%20and%20Clean%20Architecture;Always%20learning...&font=Fira%20Code&center=true&width=500&height=45&color=00FFCC&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-</p>
+Systems Engineering student at Universidad Nacional de San Agustín, Arequipa, Peru.
+I build web and desktop systems end to end, from the database to the interface, and I care about how they fail: security, clean architecture and automated delivery.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R0otDrigo&label=Profile%20views" alt="R0otDrigo" />
-</p>
+- Working on: real-time transit simulation in C++/Qt and AI tooling for BIM workflows
+- Interested in: application security, software architecture, CI/CD
+- Daily driver: Linux with a tiling window manager
 
----
+## Featured work
 
-### 🚀 Tech Stack
+| Project | Description | Stack |
+|---|---|---|
+| [**bim-tutor-ai**](https://github.com/R0otDrigo/bim-tutor-ai) | Revit plugin and agent that enforces the BEP (ISO 19650 + Uniclass) while modeling, then generates the 5D budget from the clean data. BIM + AI Hackathon. | C# / .NET · FastAPI · React · TypeScript |
+| [**SIT-Core**](https://github.com/R0otDrigo/unsa-26b-tecobj-sit-core) | Real-time simulator of Arequipa's public transit network on OpenStreetMap: 9 routes, 288 stops, fleet dispatch and traffic events. | C++17 · Qt 6 · QML · CMake |
+| [**Krayips CRM**](https://github.com/R0otDrigo/unsa-26a-ips-krayips-crm) | Scrum and a DevOps CI/CD pipeline applied to the open-source Krayin CRM. | Laravel · PHP · Docker · GitHub Actions |
+| [**RutaSIT architecture**](https://github.com/R0otDrigo/unsa-26b-cs-lab04-grupo06) | Architecture study for a bus-tracking app: quality drivers, decision matrix and ADRs. I led the architecture and analysis. | Python · Mermaid · PlantUML |
+| [**rodfiles**](https://github.com/R0otDrigo/rodfiles) | bspwm dotfiles with an automated install script for Kali Linux. | Shell |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray" height="25">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
-</p>
+## Stack
 
----
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=93C5FD)
+![Django](https://img.shields.io/badge/Django%20%2F%20DRF-1E293B?style=flat-square&logo=django&logoColor=93C5FD)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=93C5FD)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-1E293B?style=flat-square&logo=dotnet&logoColor=93C5FD)
+![PHP](https://img.shields.io/badge/Laravel-1E293B?style=flat-square&logo=laravel&logoColor=93C5FD)
 
-### 📊 GitHub Stats
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=93C5FD)
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=93C5FD)
+![Angular](https://img.shields.io/badge/Angular-1E293B?style=flat-square&logo=angular&logoColor=93C5FD)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=R0otDrigo&show_icons=true&theme=github_dark" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=R0otDrigo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+**Systems** &nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-1E293B?style=flat-square&logo=cplusplus&logoColor=93C5FD)
+![Qt](https://img.shields.io/badge/Qt%20%2F%20QML-1E293B?style=flat-square&logo=qt&logoColor=93C5FD)
+![CMake](https://img.shields.io/badge/CMake-1E293B?style=flat-square&logo=cmake&logoColor=93C5FD)
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="R0otDrigo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=R0otDrigo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
+**Data & ops** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=93C5FD)
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=93C5FD)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat-square&logo=githubactions&logoColor=93C5FD)
+![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=93C5FD)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=93C5FD)
+
+## Activity
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=R0otDrigo&show_icons=true&hide_border=true&bg_color=0F172A&title_color=93C5FD&text_color=CBD5E1&icon_color=93C5FD" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=R0otDrigo&hide_border=true&background=0F172A&ring=93C5FD&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=334155" alt="GitHub streak" />
 </p>
